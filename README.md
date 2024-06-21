@@ -10,7 +10,7 @@ Additionally, I have a passion for new technologies and have been learning about
 
 I started learning English from scratch and can now communicate effectively. 
 
-My goal is to find a remote job, and I believe that learning English will help me achieve this goal.
+**My goal is to find a remote job**, and I believe that learning English will help me achieve this goal.
 
 
 ## Skills
