@@ -17,8 +17,8 @@ My goal is to find a remote job, and I believe that learning English will help m
 - **AWS Certified Developer – Associate (DVA-02)**
 
 ## Projects
-- [ NFT-Marketplace](https://nft-marketplace-brown-theta.vercel.app/) - Use Ethers.js and Next.js.
-- [ValetParking](https://valetparking.chichi.hair/) - A Fullstack project use Next.js and Nest.js.
+- [ NFT-Marketplace](https://github.com/Ancss/NFT-Marketplace)[![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen.svg)](https://nft.chichi.hair/) - Use Ethers.js and Next.js.
+- [ValetParking](https://github.com/Ancss/ValetParking)[![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen.svg)](https://valetparking.chichi.hair) - A Fullstack project use Next.js and Nest.js.
 
 ## Get in Touch
 - Email: [ancss2025@gmail.com](mailto:ancss2025@gmail.com)
@@ -26,9 +26,9 @@ My goal is to find a remote job, and I believe that learning English will help m
 
 
 ## GitHub Stats
-<div style="display: flex; flex-direction: row;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ancss&show_icons=true&theme=radical" alt="Fan's GitHub stats" style="width: 50%;">
+<div style="display: flex; ">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ancss&layout=compact" alt="Top Langs" style="width: 50%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ancss&show_icons=true" alt="Fan's GitHub stats" style="width: 50%;">
 </div>
 <!--
 **Ancss/Ancss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
