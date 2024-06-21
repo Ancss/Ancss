@@ -1,14 +1,14 @@
 # Hello, I'm Chichi 👋
 
-I'm a frontend web developer with 4 years of experience, primarily working with Vue2 and SVN. 
+I'm a frontend web developer with 4 years of experience, primarily working with **Vue2** and SVN. 
 
-Outside of work, I've self-studied React and Next.js, and I've also learned backend technologies like NestJS. 
+Outside of work, I've self-studied React and **Next.js**, and I've also learned backend technologies like **Nest.js**. 
 
-In my spare time, I studied for and passed the AWS Developer Associate exam.
+In my spare time, I studied for and **passed the AWS Developer Associate exam**.
 
 Additionally, I have a passion for new technologies and have been learning about Web3. 
 
-I started learning English from scratch and can now communicate effectively. 
+**I started learning English from scratc**h and can now communicate effectively. 
 
 **My goal is to find a remote job**, and I believe that learning English will help me achieve this goal.
 
