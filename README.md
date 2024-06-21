@@ -26,10 +26,10 @@ My goal is to find a remote job, and I believe that learning English will help m
 
 
 ## GitHub Stats
-![Fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ancss&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ancss&layout=compact)
-
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ancss&show_icons=true&theme=radical" alt="Fan's GitHub stats" style="width: 50%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ancss&layout=compact" alt="Top Langs" style="width: 50%;">
+</div>
 <!--
 **Ancss/Ancss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
