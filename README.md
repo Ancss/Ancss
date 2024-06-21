@@ -15,7 +15,7 @@ My goal is to find a remote job, and I believe that learning English will help m
 
 ## Skills
 - **Web Development**: React, Next.js, Nest.js,Vue.js, Typescript
-- **Blockchain**: Solidity, Ethereum, Web3.js、
+- **Blockchain**: Solidity, Ethers.js, Solana, Anchor
 
 ## Certifications
 - **AWS Certified Developer – Associate (DVA-02)**
