@@ -26,7 +26,7 @@ My goal is to find a remote job, and I believe that learning English will help m
 
 ## Get in Touch
 - Email: [ancss2025@gmail.com](mailto:ancss2025@gmail.com)
-- LinkedIn: [chichi](https://www.linkedin.com/in/huang-chee-6846712aa/?locale=en_US)
+- LinkedIn: [chichi](https://www.linkedin.com/in/huang-chichi-6846712aa/?locale=en_US)
 
 
 ## GitHub Stats
