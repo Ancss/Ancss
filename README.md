@@ -26,7 +26,7 @@ Additionally, I have a passion for new technologies and have been learning about
 
 ## Get in Touch
 - Email: [ancss2025@gmail.com](mailto:ancss2025@gmail.com)
-- LinkedIn: [chichi](https://www.linkedin.com/in/huang-chichi-6846712aa/?locale=en_US)
+- LinkedIn: [chichi](www.linkedin.com/in/huang-chichi)
 
 
 ## GitHub Stats
