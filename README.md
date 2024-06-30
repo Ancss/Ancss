@@ -14,8 +14,12 @@ Additionally, I have a passion for new technologies and have been learning about
 
 
 ## Skills
-- **Web Development**: React, Next.js, Nest.js,Vue.js, Typescript
-- **Blockchain**: Solidity, Ethers.js, Solana, Anchor
+- Frontend: JavaScript, TypeScript, React, Vue.js, Next.js
+- Backend: Node.js, Nest.js
+- Blockchain: Solidity, Ethers.js 
+- Cloud: AWS 
+- Version Control: Git, CI/CD pipelines
+- Other: RESTful APIs, Responsive Design, Performance Optimization
 
 ## Certifications
 - **AWS Certified Developer – Associate (DVA-02)**
