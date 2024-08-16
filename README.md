@@ -25,6 +25,7 @@ Additionally, I have a passion for new technologies and have been learning about
 - **AWS Certified Developer – Associate (DVA-02)**
 
 ## Projects
+- [OSAI](https://github.com/Ancss/osai) - A Intelligent Operating System Assistant
 - [ NFT-Marketplace](https://github.com/Ancss/NFT-Marketplace)[![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen.svg)](https://nft.chichi.hair/) - Use Ethers.js and Next.js.
 - [ValetParking](https://github.com/Ancss/ValetParking)[![Live Demo](https://img.shields.io/badge/Live_Demo-brightgreen.svg)](https://valetparking.chichi.hair) - A Fullstack project use Next.js and Nest.js.
 
