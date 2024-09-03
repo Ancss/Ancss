@@ -1,6 +1,6 @@
 # Hello, I'm Chichi 👋
 
-I'm a Frontend web developer with 4 years of experience, primarily working with **Vue2** and SVN. 
+I'm a Frontend web developer with 5 years of experience, primarily working with **Vue2** and SVN. 
 
 Outside of work, I've self-studied React and **Next.js**, and I've also learned backend technologies like **Nest.js**. 
 
